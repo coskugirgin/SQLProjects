@@ -1,4 +1,5 @@
-# sqlprojects
-This is the repository I have my SQL projects with patika.dev
+# SQL Projects
+This is the repository I have my SQL Projects with Patika.dev
 
+[Patika.dev](https://academy.patika.dev/)
 
