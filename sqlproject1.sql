@@ -12,7 +12,7 @@ WHERE length > 65 AND length < 75;
 SELECT * FROM film
 WHERE rental_rate=0.99 AND (replacement_cost=12.99 OR replacement_cost=28.99);
 
-4. 'Select surnames for the first name value 'Marry''
+4. 'Select surnames for the first name value Marry'
 
 SELECT last_name FROM customer
 WHERE first_name='Mary';
