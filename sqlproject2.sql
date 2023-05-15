@@ -4,7 +4,8 @@ and less than 16.99 from the film table. (Use the BETWEEN-AND structure)'
 SELECT * FROM film
 WHERE replacement_cost BETWEEN 12.99 AND 16.98;
 
-2. 'Select first and last names for the first name value Penelope, Nick, Ed (Use the operator IN)'
+2. 'Select first and last names for the first name value Penelope, Nick, Ed 
+from the actor table. (Use the operator IN)'
 
 SELECT first_name, last_name FROM actor
 WHERE first_name IN ('Penelope','Nick','Ed');
