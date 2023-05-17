@@ -1,3 +1,5 @@
+"The dvdrental sample database has been used."
+
 1. 'Select title and description column from the film table.'
 
 SELECT title, description FROM film;
@@ -12,7 +14,7 @@ WHERE length > 65 AND length < 75;
 SELECT * FROM film
 WHERE rental_rate=0.99 AND (replacement_cost=12.99 OR replacement_cost=28.99);
 
-4. 'Select surnames for the first name value Marry'
+4. 'Select surnames for the first name value "Mary"'
 
 SELECT last_name FROM customer
 WHERE first_name='Mary';

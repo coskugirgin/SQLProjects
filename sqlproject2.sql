@@ -1,3 +1,5 @@
+'The dvdrental sample database has been used.'
+
 1. 'Select all the records where the replacement cost value is equal and greater than 12.99
 and less than 16.99 from the film table. (Use the BETWEEN-AND structure)'
 
