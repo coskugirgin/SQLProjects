@@ -1,3 +1,5 @@
+'The dvdrental sample database has been used.'
+
 1. 'Select country names which start with the letter "A" and, end with the letter "a"
 from the country table.'
 

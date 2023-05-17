@@ -1,3 +1,5 @@
+'The dvdrental sample database has been used.'
+
 1. 'Select all the different values from the replacement_cost column of the film table.'
 
 SELECT DISTINCT replacement_cost FROM film;
