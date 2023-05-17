@@ -1,4 +1,4 @@
-"The dvdrental sample database has been used."
+'The dvdrental sample database has been used.'
 
 1. 'Select title and description column from the film table.'
 
